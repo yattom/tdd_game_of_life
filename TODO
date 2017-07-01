@@ -1,0 +1,6 @@
+[ ] 状態の保持をGameOfLifeからOriginGenerationに移す
+[ ] GameOfLifeの不要なインターフェースを削る
+[ ] キー(世代, 座標)で状態をキャッシュするようにする
+[ ] UIを付ける
+[ ] FixedCoord, SequentialCoordはテスト用なので、テストに移動する
+[ ] ムダにnewしているものを直す
